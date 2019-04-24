@@ -1,1 +1,2 @@
 Something in File.txt
+Added a new line.
